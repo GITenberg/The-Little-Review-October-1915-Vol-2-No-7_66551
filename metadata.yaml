@@ -1,0 +1,30 @@
+_repo: The-Little-Review-October-1915-Vol-2-No-7_66551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Anderson, Margaret C.
+    alias: Anderson, Margaret Carolyn
+    birthdate: 1886
+    deathdate: 1973
+    gutenberg_agent_id: '50946'
+    url: http://www.gutenberg.org/2009/agents/50946
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_C._Anderson
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 20th century -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The Little Review, October 1915 (Vol. 2, No. 7)
+url: http://www.gutenberg.org/ebooks/66551
